@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ChatApp</string>
+    <string name="chat_app">Chat App</string>
+    <string name="create_account">Create Account</string>
+    <string name="user_name_error">Please enter user name</string>
+    <string name="add_room_title">Add Room</string>
+    <string name="rooms">Rooms</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_account">Don\'t have account?</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="username">Username</string>
+    <string name="password_confirmation">Password Confirmation</string>
+    <string name="already_have_account">Already have Account?</string>
+    <string name="sign_in">Sign In</string>
+    <string name="todo">TODO</string>
+    <string name="create_new_room">Create New Room</string>
+    <string name="room_title">Room Title</string>
+    <string name="room_description">Room Description</string>
+</resources>
