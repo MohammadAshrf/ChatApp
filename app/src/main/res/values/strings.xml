@@ -17,4 +17,6 @@
     <string name="create_new_room">Create New Room</string>
     <string name="room_title">Room Title</string>
     <string name="room_description">Room Description</string>
+    <string name="room_name">Room Name</string>
+    <string name="type_your_message">Type your message</string>
 </resources>
