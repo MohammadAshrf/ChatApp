@@ -34,6 +34,7 @@
             android:background="@drawable/message_background"
             android:hint="@string/type_your_message"
             android:padding="12dp"
+            android:text="@={vm.messageLiveData}"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toStartOf="@+id/send_btn"
             app:layout_constraintStart_toStartOf="parent" />
@@ -43,6 +44,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:background="@drawable/send_btn_background"
+            android:onClick="@{()->vm.sendMessage()}"
             android:padding="12dp"
             android:src="@drawable/ic_send"
             app:layout_constraintBottom_toBottomOf="parent"
